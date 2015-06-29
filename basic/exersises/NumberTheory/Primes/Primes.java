@@ -21,6 +21,8 @@
  * n by 2 to √n.
  * 
  */
+ 
+package basic.exersises.numbertheory;
 
 public class Primes {
 
