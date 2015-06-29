@@ -1,3 +1,5 @@
+package basic.exersises.numbertheory;
+
 import java.util.Scanner;
 
 public class Test {
