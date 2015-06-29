@@ -6,7 +6,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		App test = new App();
+		Primes test = new Primes();
 		
 		System.out.print("Enter the upper bound: ");
 		int number = scanner.nextInt();
