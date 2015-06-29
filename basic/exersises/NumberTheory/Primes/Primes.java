@@ -43,9 +43,9 @@ public class Primes {
 	}
 	
 	/**
-	 * prints founded prime numbers in (0; upperBound)
+	 * prints founded prime numbers in (0; upperBound]
 	 * 
-	 * @param upperBound to find prime numbers in (0; upperBound)
+	 * @param upperBound to find prime numbers in (0; upperBound]
 	 * @return number of founded prime numbers
 	 */
 	public int primeNumbers(int upperBound) {
