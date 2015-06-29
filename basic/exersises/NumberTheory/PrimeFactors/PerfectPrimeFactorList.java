@@ -21,7 +21,7 @@ package basic.exersises.numbertheory;
 public class PerfectPrimeFactorList {
 
 	/**
-	 * checks number is a prime
+	 * Checks number is a prime
 	 * 
 	 * @param posInt is the number to check is it prime
 	 * @return true if posInt is a prime
@@ -37,6 +37,8 @@ public class PerfectPrimeFactorList {
 	}
 
 	/**
+	 * Checks if the given number is equal to product of prime factors of this number
+	 * 
 	 * @param posInt
 	 * @return true if the product of all posInt prime factors (excluding 1 and the
 	 *         number itself) is equal to posInt value
