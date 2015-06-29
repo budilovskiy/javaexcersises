@@ -6,7 +6,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		App test = new App();
+		PerfectNumberList test = new PerfectNumberList();
 		
 		System.out.print("Enter the upper bound: ");
 		int number = scanner.nextInt();
