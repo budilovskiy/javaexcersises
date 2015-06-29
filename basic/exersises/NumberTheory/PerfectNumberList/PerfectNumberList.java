@@ -28,6 +28,8 @@
  *
  */
 
+package basic.exersises.numbertheory;
+
 public class PerfectNumberList {
 
 	private boolean isPerfect(int posInt) {
